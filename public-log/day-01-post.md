@@ -1,6 +1,6 @@
 # Day 01 - Agentic Engineering 180
 
-Today I started my 180-day journey to become an Agentic AI Coding Engineer.
+Today I started my 180-day journey to become an Agentic Engineer.
 
 I learned the basic Git workflow:
 
